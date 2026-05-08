@@ -1,83 +1,163 @@
-# <div align="center">👋 Hello World, I'm Akila Indrajith Perera</div>
-
+```md
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;GovTech+Innovator;System+Security+Enthusiast;Drone+Cinematographer" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E2cGtteGVxbHNobDQ4ZnRxaXJhZTY0djgwNTNvMDAxaDJreGN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="150" />
-</div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E2cGtteGVxbHNobDQ4ZnRxaXJhZTY0djgwNTNvMDAxaDJreGN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" />
 
----
+# 👋 Hi, I'm Akila Indrajith Perera
 
-### 👨‍💻 About Me
+### 🚀 Full Stack Developer | Government Digitalization Enthusiast | System Architect
 
-I am a **Full-Stack Developer** serving as an Officer in the **Information Technology Division of the Sri Lanka Police**. My work focuses on digitalizing government administrative processes and building robust, secure enterprise systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Full-Stack+Enterprise+Application+Developer;Laravel+%7C+Spring+Boot+%7C+React+Developer;Government+Digitalization+Projects;Always+Learning+New+Technologies;Building+Secure+and+Scalable+Systems" />
 
-*   🔭 **Current Projects:** Scaling high-traffic government systems and refining the Police Hospital Information System (PHIS).
-*   🌱 **Learning:** Advanced Docker orchestration, Cloud Infrastructure, and Modern DevOps workflows.
-*   💬 **Ask me about:** SDLC, Laravel/Spring Boot architecture, System Security Auditing, and Mermaid.js workflows.
-*   ⚡ **Fun Fact:** When I'm not in the terminal, I'm at the gym or 120m up in the air capturing 4K aerial shots with my drone.
-
----
-
-### 🚀 Tech Stack
-
-**Core Development**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Database & Infrastructure**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-**Creative Tools**
-![Adobe PS](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe LR](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akilaperera98&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Akila's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaperera98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akilaperera98&theme=onedark&no-bg=true" alt="Trophies" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+# 💫 About Me
+
+🔭 Currently working on **Enterprise Applications** and **Government Digitalization Systems** using Laravel & Spring Boot.
+
+🌱 Currently learning **Modern DevOps**, **Docker Orchestration**, **Cloud Infrastructure**, and **Mobile App Development**.
+
+👯 Looking to collaborate on:
+- Open-source security tools
+- Scalable system architectures
+- Innovative React projects
+
+🤝 Looking for help with:
+- High-traffic database scaling
+- Cloud-native infrastructure
+- Advanced DevOps pipelines
+
+💬 Ask me about:
+- SDLC
+- Laravel & PHP frameworks
+- System Security Auditing
+- Mermaid.js Flowcharts
+- Enterprise System Design
+
+⚡ Fun Fact:
+When I’m not debugging code, I’m either at the gym 💪 or capturing cinematic aerial footage with my drone 🚁
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://instagram.com/akilaperera1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/akilaperera98" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@akilperera1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
-  </a>
+
+<a href="https://instagram.com/akilperera1" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/akilaperera98" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://tiktok.com/@akilperera1" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akilaperera98&label=PROFILE+VIEWS&color=0078d7&style=flat-square" />
-</div>
+# 💻 Tech Stack
+
+## 🚀 Languages & Frameworks
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,nodejs,python,cpp,html,css,bootstrap" />
+
 </p>
+
+---
+
+## 🛢️ Databases & Servers
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,apache,nginx" />
+
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,git,github" />
+
+</p>
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akilaperera98&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akilaperera98&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaperera98&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akilaperera98&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</div>
+
+---
+
+# ✍️ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=akilaperera98&style=for-the-badge&color=blue" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 “Building secure, scalable and impactful digital solutions.”
+
+</div>
+```
