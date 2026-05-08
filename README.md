@@ -114,13 +114,13 @@ When I’m not debugging code, I’m either at the gym 💪 or capturing cinemat
 
 ---
 
-# 📈 Most Used Languages
+ <!-- 📈 Most Used Languages -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaperera98&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaperera98&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
-</div>
+<!-- </div> -->
 
 ---
 
