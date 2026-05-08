@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E2cGtteGVxbHNobDQ4ZnRxaXJhZTY0djgwNTNvMDAxaDJreGN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" />
